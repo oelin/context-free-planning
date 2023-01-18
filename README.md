@@ -59,7 +59,7 @@ Specifically, if $M = ( Q, \Sigma, \delta, q_0, F)$ is a finite state automaton 
 
 - $S  = q_0$
 
-This context-free grammar accepts the same language as $M$, however it additionally allows us to *generate* strings from the language using production rules. Applying this to the navigation problem, we can now solve it using a context-free grammar *constructed from* the automaton. Constructing the grammar, the generating strings are both linear time operations in the size of the original automaton. Hence, this approach is suitable for problems involving relatively small state or action spaces.
+This context-free grammar accepts the same language as $M$, however it additionally allows us to *generate* strings from the language using production rules. Applying this to the navigation problem, we can now solve it using a context-free grammar *constructed from* the automaton. Constructing the grammar, and generating strings are both linear time operations in the size of the original automaton. Hence, this approach is suitable for problems involving relatively small state or action spaces.
 
 
 ## 4. Optimal Planning
