@@ -1,5 +1,4 @@
-# Context-free Planning 
-
+# CFP
 
 ## 1. Introduction
 
