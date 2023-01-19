@@ -1,5 +1,7 @@
 # CFP
 
+Finding feasible solutions to planning problems using generative context-free grammars.
+
 ## 1. Introduction
 
 Context-free planning is a method for finding feasible solutions to deterministic planning problems. 
