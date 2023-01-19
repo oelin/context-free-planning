@@ -1,4 +1,4 @@
-# CFP
+# Context Free Planning
 
 Finding feasible solutions to planning problems using generative context-free grammars.
 
