@@ -3,7 +3,7 @@
 
 ## 1. Introduction
 
-Context-free planning is a method for finding plausible solutions to deterministic planning problems. 
+Context-free planning is a method for finding feasible solutions to deterministic planning problems. 
 
 It relies on the fact that such problems can often be modelled as automata, implying that they also have a corresponding context-free representation. Using a context-free grammar (CFG), we can then generate solutions automatically from the given set of production rules.
 
