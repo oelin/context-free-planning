@@ -65,7 +65,7 @@ This context-free grammar accepts the same language as $M$, however it additiona
 
 ## 4. Optimal Planning
 
-So far, we have provided an efficient method for solving deterministic planning problems using context-free grammars. However, we have not considered the extent to which these solutions are optimal. In general, an arbitrary solution selected from the language of all solutions will not be "optimal" for some measure of optimality. In many problems, there are an infinite number of sub-optimal while only a finite number of optimal ones. Navigation to a target is one such problem.
+So far, we have provided an efficient method for solving deterministic planning problems using context-free grammars. However, we have not considered the extent to which these solutions are optimal. In general, an arbitrary solution selected from the language of all solutions will not be "optimal" for some measure of optimality. In many problems, there are an infinite number of sub-optimal solution while only a finite number of optimal ones. Navigation to a target is one such problem.
 
 
 ## 5. Implementation 
